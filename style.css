@@ -107,6 +107,7 @@ nav {
   color: var(--muted);
   text-transform: uppercase;
   line-height: 1;
+  margin-top: 3px;
 }
 
 .nav-links {
